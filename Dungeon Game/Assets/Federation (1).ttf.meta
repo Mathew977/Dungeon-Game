@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0c9f50864ca5bfc448f4b82556d6e939
+timeCreated: 1524513047
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Federation
+  fontNames:
+  - Federation
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
